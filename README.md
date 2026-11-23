@@ -1,7 +1,11 @@
 # YKV PRO OPTIMIZER
 
 Otimizador de computador desenvolvido em **Python**, criado para melhorar o desempenho, liberar espaço em disco e manter o sistema rápido e organizado.
+
+
 DISCORD - https://discord.gg/nHxjWgm6Nh
+
+
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Plataforma-Windows-0078D6?logo=windows&logoColor=white)
 ![License](https://img.shields.io/badge/Licença-MIT-green)
