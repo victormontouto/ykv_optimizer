@@ -74,4 +74,4 @@ Distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais informaçõe
 
 ## 👨‍💻 Autor
 
-Feito por **SEU NOME** · [GitHub](https://github.com/SEU-USUARIO)
+Feito por **VICTOR MONTOUTO** · [GitHub](https://github.com/victormontouto)
