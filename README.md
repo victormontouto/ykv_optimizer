@@ -31,28 +31,6 @@ O **YKV PRO OPTIMIZER** é uma ferramenta simples e eficiente que automatiza tar
 - os / shutil
 - (adicione outras bibliotecas que você usou, como tkinter ou customtkinter)
 
-## 📥 Instalação
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/SEU-USUARIO/ykv-pro-optimizer.git
-   ```
-
-2. Entre na pasta do projeto:
-   ```bash
-   cd ykv-pro-optimizer
-   ```
-
-3. Instale as dependências:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Execute o programa:
-   ```bash
-   python main.py
-   ```
-
 ## ▶️ Como usar
 
 1. Abra o programa (de preferência como **Administrador**)
