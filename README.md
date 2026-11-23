@@ -52,4 +52,4 @@ Distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais informaçõe
 
 ## 👨‍💻 Autor
 
-Feito por **VICTOR MONTOUTO** · [GitHub](https://github.com/victormontouto)
+Feito por **Victor Montouto </>** · [GitHub](https://github.com/victormontouto)
