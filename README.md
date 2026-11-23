@@ -1,4 +1,4 @@
-# ⚡ YKV PRO OPTIMIZER
+# YKV PRO OPTIMIZER
 
 Otimizador de computador desenvolvido em **Python**, criado para melhorar o desempenho, liberar espaço em disco e manter o sistema rápido e organizado.
 
